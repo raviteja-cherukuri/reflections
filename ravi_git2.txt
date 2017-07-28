@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 when we intialize the git .git is added ,which consisits of confi and object files which are impoertant to track changes.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it is usefull to manage te files that going to be monitored.
