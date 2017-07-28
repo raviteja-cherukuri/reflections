@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+when we intialize the git .git is added ,which consisits of confi and object files which are impoertant to track changes.
