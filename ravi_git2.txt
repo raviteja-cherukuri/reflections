@@ -10,3 +10,7 @@ like when we need two versions of same thing or two diff rrent features added.
 
 How do the diagrams help you visualize the branch structure?
 by a single glance we can know the the whole structure
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+multiple feature or multiple people working it on finnally create one project they want to .
+
