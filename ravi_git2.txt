@@ -3,4 +3,4 @@ when we intialize the git .git is added ,which consisits of confi and object fil
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 it is usefull to manage te files that going to be monitored
 How can you use the staging area to make sure you have one commit per logical change?
-by adding
+by adding.
