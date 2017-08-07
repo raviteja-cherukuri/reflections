@@ -15,3 +15,6 @@ What is the result of merging two branches together? Why do we represent it in t
 multiple feature or multiple people working it on finnally create one project they want to .
  new branch
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros: we can do the merge automamtically with less effort
+cons:but some times becoz of conflicts it will become difficult for auto merge
